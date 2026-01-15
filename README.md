@@ -20,3 +20,11 @@ Visualize the probable cause for  shortage and quality redundancy of water in Ma
 
  - <a href="https://github.com/Marilyn-cc/Data-Analysis/blob/main/Dashboard_preview.png">Dasboard</a>
 
+ ## Procedure 
+  - Load data model to Power BI and used Power query for pre-processing
+  - Optimised the relationships to streamline cardinality and direction
+  - Created mockups to plan the visual layout of the dashboard, deciding where charts, filters, and titles will be placed.
+  - First page of report contains most significant insights that answer the primary questions.
+  - The rest of the pages contain the details to the aspects that we think influence the key issue.
+  - Included filters and a drill down option for interactvity and deep dives.
+
