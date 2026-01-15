@@ -12,4 +12,5 @@ Count of the type of water source per province.
 Average queue time ordered per water source.
 Share of queue composition
 Pollution extent per component per province
+##Dasboard
 
