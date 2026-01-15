@@ -19,7 +19,7 @@ Visualize the probable cause for  shortage and quality redundancy of water in Ma
 
 ## Report
 
- - <a href="https://github.com/Marilyn-cc/Data-Analysis/blob/main/Dashboard_preview.png">Dashboard</a>
+ - <a href="https://github.com/Marilyn-cc/Data-Analysis/blob/main/Dashboard_prev.png">Dashboard</a>
 
  ## Procedure 
   - Load data model to Power BI and used Power query for pre-processing
